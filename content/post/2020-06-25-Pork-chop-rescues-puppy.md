@@ -2,8 +2,10 @@
 title: Pork chop rescues puppy
 author: Alejandro
 date: 2020-06-24
+categories:
+  - Headlines
 ---
-![](figures/alejandro.jpg)
+![](figures/Alejandro.jpg)
 
 Last night, on May 31st, a sausage dog was re-discovered after he went missing for days.
 
